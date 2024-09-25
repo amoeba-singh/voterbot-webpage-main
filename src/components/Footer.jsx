@@ -14,7 +14,7 @@ function Footer() {
           <a href="#" rel="noopener noreferrer" className="hover:text-gray-400">
             Instagram
           </a>
-          <a href="https://www.facebook.com/profile.php?id=61564886816636" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+          <a href="https://www.facebook.com/profile.php?id=61563589875382" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
             Facebook
           </a>
           <a href="#" rel="noopener noreferrer" className="hover:text-gray-400">
