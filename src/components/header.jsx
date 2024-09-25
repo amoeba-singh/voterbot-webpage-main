@@ -5,7 +5,7 @@ function Header() {
       <header className="bg-[#25D366] text-white p-4 w-screen">
         <div className="container mx-auto flex justify-between items-center">
           <div className="text-xl font-bold">
-            <a href="/">Voter Sahayak</a>
+            <a href="/">VoterBot</a>
           </div>
           <nav>
             <ul className="flex space-x-4">
